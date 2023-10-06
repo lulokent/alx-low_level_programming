@@ -1,8 +1,6 @@
 #include<stdio.h>
 /**
  * main - Entry point
- * 
- * This function is the entry point for all C programs.
  *
  * return: 0 (Success)
  */
