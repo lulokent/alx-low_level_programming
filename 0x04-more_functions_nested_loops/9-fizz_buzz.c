@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * main - prints the numbers from 1 to 100
- * but for multiplies of three prints Fizz instead of the number
- * and for the mutliplies of five prints Buzz
- * Return : 0 (Success)
+ * main - Prints the numbers from 1 to 100,but for multiplies of three,
+ * Fizz is printed instead of the number, and for the multiplies of five,
+ * Buzz and for multiplies for both three and five, FizzBuzz
+ * Return : void
  */
 int main(void)
 {
@@ -35,6 +35,4 @@ int main(void)
 		}
 	}
 	printf("\n");
-
-	return (0);
 }
