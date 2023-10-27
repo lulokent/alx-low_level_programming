@@ -1,0 +1,1 @@
+Compiling static librarie
